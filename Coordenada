@@ -1,0 +1,8 @@
+--Paste this individually
+--Do not copy everything or it will break
+ 
+--GUI script
+loadstring(game:HttpGet("https://pastebin.com/raw/GdmzzrDz", true))()
+ 
+--Teleport script
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(COORDINATESHERE)
